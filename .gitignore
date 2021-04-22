@@ -24,3 +24,8 @@ hs_err_pid*
 /.idea/
 /gradle/
 /.gradle/
+/C#/AsposeTest/UnitTestProject/bin/
+/C#/AsposeTest/Converter/bin/
+/C#/AsposeTest/.vs/
+/C#/AsposeTest/Converter/obj/
+/C#/AsposeTest/UnitTestProject/obj/
